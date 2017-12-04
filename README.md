@@ -1,7 +1,7 @@
 ## Whatsapp Hack - Only React Basic
 Combination between state and basic props in react component.
 <br>
-![alt text](https://github.com/nino-t/Whatsapp-Hack/demo/demo.gif)
+![alt text](https://github.com/nino-t/Whatsapp-Hack/blob/master/demo/demo.gif)
 
 ## Something Missing?
 
